@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @emvay
+- 👋 Hi, I’m Muhammed Yasar Aytar
 - 👀 I’m interested in Algorithms, structures, programming, solving life problems, nature, colors, sky, magnetism, light, metals, precious stones,space, handmade wooden things,
-- 🌱 I’m currently learning asp.net, asp.net core and mvc versions, entity framework, dapper, mssql, html, css, js, react, node.js, bootstrap
+- 🌱 I’m currently learning asp.net, asp.net core and mvc versions, entity framework, dapper, mssql, html, css, js, react, vue.js, bootstrap
 - 📫 How to reach me is currently hidden.
 
 <!---
